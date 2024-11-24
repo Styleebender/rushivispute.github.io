@@ -1,2 +1,2 @@
-# rushivispute.github.io
-Rushi Vispute Portfolio 
+# ritwikraha.github.io
+My Portfolio Website
